@@ -183,8 +183,3 @@ All rights reserved unless otherwise stated by the original authors.
 - **Oscord Code Academy** – Original platform
 - Built with PHP, MySQL, Bootstrap 5
 - UI inspired by modern dark / cyberpunk aesthetics
-
----
-
-*This README was generated for the archived “old version – Min Sitt” snapshot of the Oscord.io project.*
-```
